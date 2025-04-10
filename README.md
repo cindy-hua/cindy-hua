@@ -15,9 +15,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Cindy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindyhua&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyhua&layout=compact)
-
+![Cindy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cindy-hua&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy-hua&layout=compact)
 ---
 
 ## 🌱 Current Goals
